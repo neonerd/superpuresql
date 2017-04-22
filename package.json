@@ -1,0 +1,16 @@
+{
+  "name": "superpuresql",
+  "version": "1.0.0",
+  "description": "Supercharge your TypeScript development with functional SQL layer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andrej Sykora <as@andrejsykora.com>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^4.1.0",
+    "puresql": "^1.5.0",
+    "yargs": "^7.1.0"
+  }
+}
